@@ -5,7 +5,7 @@
   ![GitHub stars](https://img.shields.io/github/stars/mde3/karasi?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/mde3/karasi?style=social)
   
-  <h2 align="center">karasi - A furniture website concept mainly about chairs.</h2>
+  <h2 align="center">Future furniture - A furniture website concept mainly about chairs.</h2>
 
   Built this for educational purposes only.
 
