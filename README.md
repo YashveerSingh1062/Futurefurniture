@@ -31,8 +31,4 @@
 - CSS3
 - Javascript
 
-### ORIGINAL DRIBBLE DESIGN
-- by Nizar Ali: https://dribbble.com/shots/19914777-Kursinan-Furniture-Landing-Page/attachments/15008594?mode=media
 
-### Feedback
-- If you have any feedback, please reach out to me at mabiorduom5@gmail.com
